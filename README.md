@@ -1,2 +1,3 @@
 # git-learning
 This is for git learning purpose using intellij
+I hope I can master git fully...
